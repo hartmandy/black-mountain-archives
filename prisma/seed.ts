@@ -3,9 +3,9 @@ import { Role } from "@prisma/client";
 
 async function seed() {
   await Promise.all([
-    // getUsers().map((user) =>
-    //   db.user.create({ data: user }).catch((err) => console.log(err))
-    // ),
+    getUsers().map((user) =>
+      db.user.create({ data: user }).catch((err) => console.log(err))
+    ),
     getArticle().map((article) =>
       db.article.create({ data: article }).catch((err) => console.log(err))
     ),

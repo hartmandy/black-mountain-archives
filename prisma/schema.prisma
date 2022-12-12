@@ -26,7 +26,6 @@ model User {
   location        String?
   title           String?
   profileImageUrl String?
-  password        String
   role            Role        @default(AUTHOR)
   articles        Article[]
   Biography       Biography[]
