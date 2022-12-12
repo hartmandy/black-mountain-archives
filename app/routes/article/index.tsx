@@ -1,19 +1,20 @@
 import { json, LoaderFunction } from "@remix-run/node";
 import { Link, useLoaderData } from "@remix-run/react";
+import { db } from "../../utils/db.server";
 
 export const loader: LoaderFunction = async () => {
-  const res = await fetch("https://jsonplaceholder.typicode.com/todos/");
-  const todos = await res.json();
-  return json({ todos: todos });
+  const articles = await db.article.findMany();
+
+  return json({ articles });
 };
 
 export default function Article({}) {
-  const { todos } = useLoaderData();
+  const { articles } = useLoaderData();
   return (
     <div>
-      {todos.map((todo: any) => (
-        <div key={todo.id}>
-          <Link to={`/article/${todo.id}`}>{todo.title}</Link>
+      {articles.map((article: any) => (
+        <div key={article.id}>
+          <Link to={`/article/${article.slug}`}>{article.title}</Link>
         </div>
       ))}
     </div>
