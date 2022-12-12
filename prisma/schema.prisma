@@ -6,7 +6,73 @@ generator client {
 }
 
 datasource db {
-  provider = "mysql"
-  url      = env("DATABASE_URL")
+  provider     = "mysql"
+  url          = env("DATABASE_URL")
+  relationMode = "prisma"
 }
 
+enum Role {
+  ADMIN
+  AUTHOR
+  USER
+}
+
+model User {
+  id              String      @id @default(uuid())
+  name            String
+  email           String      @unique
+  bio             String?
+  organization    String?
+  location        String?
+  title           String?
+  profileImageUrl String?
+  password        String
+  role            Role        @default(AUTHOR)
+  articles        Article[]
+  Biography       Biography[]
+}
+
+model Article {
+  id        String   @id @default(uuid())
+  slug      String   @unique
+  title     String
+  imageUrl  String?
+  content   Json
+  summary   String   @db.Char(250)
+  published Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  tags      Tag[]
+  authorId  String
+  author    User     @relation(fields: [authorId], references: [id])
+
+  @@index([authorId])
+}
+
+model Biography {
+  id           String    @id @default(uuid())
+  name         String
+  imageUrl     String?
+  imageCaption String?
+  traits       Json
+  summary      String    @db.Char(250)
+  content      Json
+  dob          DateTime?
+  dod          DateTime?
+  placeOfBirth String?
+  placeOfDeath String?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  tags         Tag[]
+  authorId     String
+  author       User      @relation(fields: [authorId], references: [id])
+
+  @@index([authorId])
+}
+
+model Tag {
+  id        String      @id @default(uuid())
+  name      String      @unique
+  articles  Article[]
+  Biography Biography[]
+}
