@@ -11,7 +11,7 @@ datasource db {
   relationMode = "prisma"
 }
 
-enum Role {
+enum UserRole {
   ADMIN
   AUTHOR
   USER
@@ -26,7 +26,7 @@ model User {
   location        String?
   title           String?
   profileImageUrl String?
-  role            Role        @default(AUTHOR)
+  role            UserRole    @default(AUTHOR)
   articles        Article[]
   Biography       Biography[]
 }
@@ -48,30 +48,76 @@ model Article {
   @@index([authorId])
 }
 
+enum Role {
+  STUDENT
+  FACULTY
+  GUEST_FACULTY
+  STAFF
+  PERFORMER
+  GUEST
+  ADMINISTRATOR
+  FAMILY
+  UNKNOWN
+}
+
+model Person {
+  id              String      @id @default(uuid())
+  name            String
+  altName         String?
+  profileImageUrl String?
+  imageCaption    String?
+  role            Role        @default(STUDENT)
+  summary         String?     @db.Char(250)
+  subject         Subject
+  dob             DateTime?
+  dod             DateTime?
+  placeOfBirth    String?
+  placeOfDeath    String?
+  arrivalDate     DateTime?
+  departureDate   DateTime?
+  biography       Biography[]
+}
+
 model Biography {
-  id           String    @id @default(uuid())
-  name         String
+  id           String   @id @default(uuid())
+  slug         String   @unique
   imageUrl     String?
   imageCaption String?
   traits       Json
-  summary      String    @db.Char(250)
+  summary      String   @db.Char(250)
   content      Json
-  dob          DateTime?
-  dod          DateTime?
-  placeOfBirth String?
-  placeOfDeath String?
-  createdAt    DateTime  @default(now())
-  updatedAt    DateTime  @updatedAt
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
   tags         Tag[]
   authorId     String
-  author       User      @relation(fields: [authorId], references: [id])
+  author       User     @relation(fields: [authorId], references: [id])
+  personId     String
+  person       Person   @relation(fields: [personId], references: [id])
 
   @@index([authorId])
+  @@index([personId])
 }
 
 model Tag {
   id        String      @id @default(uuid())
   name      String      @unique
   articles  Article[]
-  Biography Biography[]
+  biography Biography[]
+}
+
+enum Subject {
+  ART_AND_CRAFT
+  DRAMA
+  PHYSICAL_SCIENCES
+  SOCIAL_SCIENCES
+  HISTORY
+  LANGUAGES
+  ENGLISH_AND_WRITING
+  MATHEMATICS
+  ARCHITECTURE
+  MUSIC
+  SEMINAR_ON_AMERICA
+  FARM_AND_WORK_PROGRAM
+  GENERAL
+  UNKNOWN
 }

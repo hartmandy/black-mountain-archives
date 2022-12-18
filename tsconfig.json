@@ -1,5 +1,12 @@
 {
-  "include": ["remix.env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": [
+    "remix.env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "app/components/Editor/index.js",
+    "app/components/Editor/config.js",
+    "app/components/Editor/index.js"
+  ],
   "compilerOptions": {
     "lib": ["DOM", "DOM.Iterable", "ES2019"],
     "isolatedModules": true,

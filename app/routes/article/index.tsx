@@ -10,10 +10,11 @@ export const loader: LoaderFunction = async () => {
 
 export default function Article({}) {
   const { articles } = useLoaderData();
+
   return (
     <div>
       {articles.map((article: any) => (
-        <div key={article.id}>
+        <div key={article.slug}>
           <Link to={`/article/${article.slug}`}>{article.title}</Link>
         </div>
       ))}
