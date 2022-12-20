@@ -1,7 +1,7 @@
 name,role,subject
 George Zabriskie,GUEST_FACULTY,ENGLISH_AND_WRITING
 Ossip Zadkine,GUEST_FACULTY,ART_AND_CRAFT
-Emmy Zastrow,FACULTY,LANGUAGESS
+Emmy Zastrow,FACULTY,LANGUAGES
 Emanuel Zetlin,GUEST_FACULTY,MUSIC
 William Edward Zeuch,FACULTY,SOCIAL_SCIENCES
 Eva Carina Zhitlowsky,STUDENT,ART_AND_CRAFT
@@ -98,12 +98,12 @@ Stefan Wolpe,FACULTY,MUSIC
 Jeremiah Frederic Wolpert,STUDENT,SOCIAL_SCIENCES
 Emily Wood,FAMILY,NA
 Horace McGuire Wood,STAFF,FARM_AND_WORK_PROGRAM
-Jane Foster Woodruff,STUDENT,geNERAL
+Jane Foster Woodruff,STUDENT,GENERAL
 Doris Woodward,GUEST_FACULTY,SOCIAL_SCIENCES
-Forrest Edward Wright,STUDENT,geNERAL
+Forrest Edward Wright,STUDENT,GENERAL
 Louise Wright,STAFF,NA
 Helen Grace Wright,STUDENT,UNKNOWN
-Nanette Wright,STUDENT,geNERAL
+Nanette Wright,STUDENT,GENERAL
 Nancy Wost,STUDENT,GENERAL
 Eleonora Francziszka Wronowska,UNKNOWN,UNKNOWN
 Elinor Wulfekuhler,STUDENT,GENERAL
@@ -241,7 +241,7 @@ Barbara Taft Sheddon,STUDENT,GENERAL
 Mildred Lanier Sheffeld,UNKNOWN,UNKNOWN
 Cicely Chapin Shallhase,STUDENT,GENERAL
 Edwin Holmes Shepard,UNKNOWN,UNKNOWN
-Fiola Shepard,FACULTY,LANGUAGESS
+Fiola Shepard,FACULTY,LANGUAGES
 Arthur Sherman,UNKNOWN,UNKNOWN
 Richard Allen Sherman,STUDENT,GENERAL
 Roger Talbot Sherman,UNKNOWN,UNKNOWN
@@ -383,7 +383,7 @@ Denis Rhodes,STUDENT,GENERAL
 John H. Rhys,UNKNOWN,UNKNOWN
 Barbara Stone Rice,STUDENT,ART_AND_CRAFT
 Daniel Stacey Rice,UNKNOWN,UNKNOWN
-Frank Aydelotte Rice,GUEST_FACULTY,LANGUAGESS
+Frank Aydelotte Rice,GUEST_FACULTY,LANGUAGES
 Jack Edward Rice,STAFF,FARM_AND_WORK_PROGRAM
 John Andrew Rice,ADMINISTRATOR,ENGLISH_AND_WRITING
 June Ann Rice,STUDENT,GENERAL
@@ -412,7 +412,7 @@ Elaine Rodbart,UNKNOWN,UNKNOWN
 Emelyn N. Rogers,UNKNOWN,UNKNOWN
 Alice Katherine Rondthaler,FACULTY,ENGLISH_AND_WRITING
 Howard Mayro Rondthaler,FAMILY,NA
-Theodore Edward Rondthaler,FACULTY,LANGUAGESS
+Theodore Edward Rondthaler,FACULTY,LANGUAGES
 Nevalie Anne Ropp,STUDENT,GENERAL
 Nathan Rosen,GUEST_FACULTY,PHYSICAL_SCIENCES
 Peter A. Rosenbaum,UNKNOWN,UNKNOWN
