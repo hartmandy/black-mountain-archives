@@ -56,7 +56,7 @@ Gertrud Wenzel,UNKNOWN,UNKNOWN
 Florence Sheila West,UNKNOWN,UNKNOWN
 Nancy Clarke West,UNKNOWN,UNKNOWN
 Anne C. Weston,STUDENT,uNKNOWN
-Neltje Scofield Weston,STUDENT,DRAMA
+Neltje Scofield Weston,STUDENT,PERFORMANCE_ART
 Norman Betts Weston,STUDENT,SOCIAL_SCIENCES
 Emery Stevens Whipple,STUDENT,UNKNOWN
 Frank Madison White,UNKNOWN,UNKNOWN
@@ -107,7 +107,7 @@ Nanette Wright,STUDENT,geNERAL
 Nancy Wost,STUDENT,GENERAL
 Eleonora Francziszka Wronowska,UNKNOWN,UNKNOWN
 Elinor Wulfekuhler,STUDENT,GENERAL
-William Robert Wunsch,FACULTY,DRAMA
+William Robert Wunsch,FACULTY,PERFORMANCE_ART
 Edward Dean Wyke,STUDENT,GENERAL
 Shirley Tecia Unger,UNKNOWN,UNKNOWN
 John Arthur Urbain,STUDENT,GENERAL
@@ -121,8 +121,8 @@ Neal Roger van Middlesworth,STUDENT,GENERAL
 Edward Stanley Vanderbeek,STUDENT,ARCHITECTURE
 John Henry Vanderline,STUDENT,GENERAL
 Jean Varda,GUEST_FACULTY,ART_AND_CRAFT
-Nataraj Vashi,GUEST_FACULTY,DRAMA
-PraVeena Mehta Vashi,GUEST_FACULTY,DRAMA
+Nataraj Vashi,GUEST_FACULTY,PERFORMANCE_ART
+PraVeena Mehta Vashi,GUEST_FACULTY,PERFORMANCE_ART
 Margaret Tolk Vaughan,STUDENT,GENERAL
 Muffie Vaughan,STUDENT,GENERAL
 Thelma Verner,UNKNOWN,UNKNOWN
@@ -142,13 +142,13 @@ Edgar M. Taschdijan,GUEST_FACULTY,SOCIAL_SCIENCES
 Marie June Tavroges,STUDENT,ART_AND_CRAFT
 "John Brainerd Taylor, Jr.",STUDENT,GENERAL
 Paul Taylor,UNKNOWN,UNKNOWN
-Thomas Taylor,STUDENT,DRAMA
-Suzanne Fullbright Teasdale,STUDENT,DRAMA
+Thomas Taylor,STUDENT,PERFORMANCE_ART
+Suzanne Fullbright Teasdale,STUDENT,PERFORMANCE_ART
 Dorice Tentchoff,STUDENT,SOCIAL_SCIENCES
 Hilda Terry,STUDENT,GENERAL
 Elaine Freeman Thomas,UNKNOWN,UNKNOWN
 Donald Stuart Thrall,STUDENT,GENERAL
-Bedford Thurman,GUEST_FACULTY,DRAMA
+Bedford Thurman,GUEST_FACULTY,PERFORMANCE_ART
 Stanley Hart Tippett,STUDENT,GENERAL
 James LeRoy Tite,GUEST_FACULTY,ART_AND_CRAFT
 Helen J. Topp,STUDENT,GENERAL
@@ -230,7 +230,7 @@ Janet Seasongood,STUDENT,GENERAL
 Janet Benskin Seaton,GUEST,FARM_AND_WORK_PROGRAM
 Virginia Claire Seay,STUDENT,MUSIC
 James Edward Secord,UNKNOWN,ARCHITECTURE
-Mary-Averett Seelye,GUEST_FACULTY,DRAMA
+Mary-Averett Seelye,GUEST_FACULTY,PERFORMANCE_ART
 Harry Seidler,STUDENT,ARCHITECTURE
 Louis Hubert Selders,STUDENT,MUSIC
 Carol Rita Serling,STUDENT,GENERAL
@@ -274,13 +274,13 @@ Elizabeth Ware Sly,GUEST_FACULTY,MUSIC
 Eleanor Robson Smith,STUDENT,ART_AND_CRAFT
 Elizabeth Courts Smith,UNKNOWN,UNKNOWN
 Hariet Smith,UNKNOWN,UNKNOWN
-Junelaine Smith,STUDENT,DRAMA
+Junelaine Smith,STUDENT,PERFORMANCE_ART
 Nancy Alice Smith,STUDENT,ART_AND_CRAFT
-Suzanne Parker Smith,STUDENT,DRAMA
+Suzanne Parker Smith,STUDENT,PERFORMANCE_ART
 Will Smith,STAFF,NA
 Benjamin Sneed,STAFF,NA
 Kenneth Duane Snelson,STUDENT,ART_AND_CRAFT
-Paul Ellis Snyder,STUDENT,DRAMA
+Paul Ellis Snyder,STUDENT,PERFORMANCE_ART
 Harriet Florence Sohmers,STUDENT,GENERAL
 Norman Soloman,UNKNOWN,UNKNOWN
 Harriett Sylvia Sones,STUDENT,MUSIC
@@ -288,7 +288,7 @@ Richard Spahn,STUDENT,GENERAL
 Elizabeth Spaulding,STUDENT,GENERAL
 Freda Naomi Spaulding,STUDENT,GENERAL
 Victor Sprague ,FACULTY,PHYSICAL_SCIENCES
-Sue Spayth,STUDENT,DRAMA
+Sue Spayth,STUDENT,PERFORMANCE_ART
 A.J. Spencer,UNKNOWN,UNKNOWN
 Carolyn Constance Spencer,STUDENT,GENERAL
 Philip Bradley Spencer,STUDENT,GENERAL
@@ -345,13 +345,13 @@ Samuel E. Sussman,STUDENT,GENERAL
 Eugene Laird Sutherland,UNKNOWN,UNKNOWN
 William Robert Sutherland,UNKNOWN,UNKNOWN
 Inga Svarc,UNKNOWN,UNKNOWN
-Egbert Warnderink Swackhamer,STUDENT,DRAMA
-John Meredith Swackhamer,STUDENT,DRAMA
+Egbert Warnderink Swackhamer,STUDENT,PERFORMANCE_ART
+John Meredith Swackhamer,STUDENT,PERFORMANCE_ART
 Alice Lee Swan,STUDENT,GENERAL
 Verne Sturges Swan,UNKNOWN,UNKNOWN
 Jean Phyllis Swanson,STUDENT,GENERAL
 Katherine Ann Swartzbaugh,STUDENT,ART_AND_CRAFT
-Lucy Houghton Swift,STUDENT,DRAMA
+Lucy Houghton Swift,STUDENT,PERFORMANCE_ART
 Piet Swierstra,UNKNOWN,UNKNOWN
 Sara Natalie,STUDENT,UNKNOWN
 Dorothy Elizabeth Raattama,STUDENT,GENERAL
@@ -361,7 +361,7 @@ Paul Radin,FACULTY,SOCIAL_SCIENCES
 Thomas Joseph Raleigh,STUDENT,GENERAL
 Arthur Charles Ramier,UNKNOWN,UNKNOWN
 Janet Harvey Ramsey,STUDENT,GENERAL
-George Milton Randall,STUDENT,DRAMA
+George Milton Randall,STUDENT,PERFORMANCE_ART
 Eva Rapaport,UNKNOWN,UNKNOWN
 Arthur Raper,GUEST_FACULTY,SOCIAL_SCIENCES
 Robert Milton E. Rauschenberg,STUDENT,ART_AND_CRAFT
@@ -420,7 +420,7 @@ Rachel Rosenberger,STUDENT,GENERAL
 Ruth Lenore Rosenbluh,UNKNOWN,UNKNOWN
 Helen Joyce Rosenbluh,UNKNOWN,UNKNOWN
 Isaac Rosenfeld,GUEST_FACULTY,ENGLISH_AND_WRITING
-Sylvia Baela Rosenfeld,STUDENT,DRAMA
+Sylvia Baela Rosenfeld,STUDENT,PERFORMANCE_ART
 Gloria Rosenfeld,STUDENT,GENERAL
 Doris Ann Rosenthal,UNKNOWN,ART_AND_CRAFT
 Stanley Rosner,UNKNOWN,UNKNOWN
@@ -447,8 +447,8 @@ Harley Walter Parker,STUDENT,GENERAL
 Virginia T. Parker,STUDENT,GENERAL
 Patricia Ann Passloff,STUDENT,GENERAL
 Josephine Annette Pater,STUDENT,GENERAL
-Leslie Paul,STUDENT,DRAMA
-Max Paul,STUDENT,DRAMA
+Leslie Paul,STUDENT,PERFORMANCE_ART
+Max Paul,STUDENT,PERFORMANCE_ART
 Felix Payant,GUEST,NA
 Barbara Payne,STUDENT,MUSIC
 May de Forest Payne,STUDENT,GENERAL
@@ -458,7 +458,7 @@ Charles William Pearman,UNKNOWN,UNKNOWN
 Marjorie Pearman,STAFF,NA
 Lorna Belle Pearson,STUDENT,MUSIC
 Roscoe Penley,STAFF,FARM_AND_WORK_PROGRAM
-Arthur Hiller Penn,GUEST_FACULTY,DRAMA
+Arthur Hiller Penn,GUEST_FACULTY,PERFORMANCE_ART
 Marion Louise Perkins,STUDENT,MUSIC
 Charles Bryce Perrow,STUDENT,GENERAL
 Joyce Perry,GUEST,FARM_AND_WORK_PROGRAM
@@ -472,7 +472,7 @@ Vernon Harold Phillips,STUDENT	GENERAL,
 Claire Deborah Picken,STUDENT,GENERAL
 Rene Constant Pinchuk,STUDENT,ART_AND_CRAFT
 David Pines,STUDENT,GENERAL
-Bruno Piscitello,STUDENT,DRAMA
+Bruno Piscitello,STUDENT,PERFORMANCE_ART
 Jennie May Pitcoff,UNKNOWN,UNKNOWN
 "Louis Witherbee Pitt, Jr.",UNKNOWN,UNKNOWN
 N.O. Pittinger,ADMINISTRATOR,NA
@@ -548,9 +548,9 @@ Victor Ornstein,GUEST,SEMINAR_ON_AMERICA
 James Robert Orr,STUDENT,GENERAL
 Elizabeth Louisa Osbourne,STUDENT,GENERAL
 Susan Osbourne,UNKNOWN,UNKNOWN
-Virginia Denman Osbourne,STUDENT,DRAMA
+Virginia Denman Osbourne,STUDENT,PERFORMANCE_ART
 Charles Oscar,GUEST_FACULTY,ART_AND_CRAFT
-Carol Ann Ostrow,STUDENT,DRAMA
+Carol Ann Ostrow,STUDENT,PERFORMANCE_ART
 Mary Phellan Outten,STUDENT,GENERAL
 Warren Bell Outten,STUDENT,GENERAL
 Evelyn Oxenberg,STUDENT,GENERAL
@@ -577,8 +577,8 @@ Adele Albert,STUDENT,MUSIC
 Neil Kenneth Albright,STUDENT,GENERAL
 Robert Monroe Alexander,STUDENT,GENERAL
 Bascombe N. Allen,STAFF,FARM_AND_WORK_PROGRAM
-Marriette Handy Allen,STUDENT,DRAMA
-Shirley April Allen,STUDENT,DRAMA
+Marriette Handy Allen,STUDENT,PERFORMANCE_ART
+Shirley April Allen,STUDENT,PERFORMANCE_ART
 George Meinhard Alsberg,STUDENT,GENERAL
 Donald Alter,STUDENT,ART_AND_CRAFT
 Harold Altman,STUDENT,ART_AND_CRAFT
@@ -591,9 +591,9 @@ Harold Henry Anderson,STUDENT,GENERAL
 Richard Lloyd Andrews,STUDENT,ART_AND_CRAFT
 John Curtis Applegate,STUDENT,SOCIAL_SCIENCES
 Charles Archer,STUDENT,ART_AND_CRAFT
-Eleanore Joicely Archer,STUDENT,DRAMA
+Eleanore Joicely Archer,STUDENT,PERFORMANCE_ART
 Hazel Larsen Archer,STUDENT,ART_AND_CRAFT
-Boris Solomonivick Aronson,GUEST_FACULTY,DRAMA
+Boris Solomonivick Aronson,GUEST_FACULTY,PERFORMANCE_ART
 Anne Eastman Arthur,STUDENT,GENERAL
 Ruth Aiko Asawa,STUDENT,ART_AND_CRAFT
 Adam Kissin Atkin,STUDENT,MATHEMATICS
@@ -603,7 +603,7 @@ Alan Gene Auslander,STUDENT,GENERAL
 Leo Austin,UNKNOWN,UNKNOWN
 Allie Eugenia Avery,STUDENT,GENERAL
 Rima Marion Axelrod,STUDENT,GENERAL
-Eleanor Fuller Aycock,STUDENT,DRAMA
+Eleanor Fuller Aycock,STUDENT,PERFORMANCE_ART
 Kenneth Richard Ayres,STUDENT,MATHEMATICS
 "Thomas Owen Ayres, Jr.",STUDENT,GENERAL
 Robert Shillingford Babcock,FACULTY,SOCIAL_SCIENCES
@@ -653,9 +653,9 @@ Nuvart Bedrossian,UNKNOWN,UNKNOWN
 Harrison Begay,STUDENT,ART_AND_CRAFT
 Margaret Grant Beidler,GUEST_FACULTY,ENGLISH_AND_WRITING
 Paul H Beidler,GUEST_FACULTY,ARCHITECTURE
-Barbara Beiswanger,GUEST_FACULTY,DRAMA
-George Beiswanger,GUEST_FACULTY,DRAMA
-Jeanne Andrea Belcher,STUDENT,DRAMA
+Barbara Beiswanger,GUEST_FACULTY,PERFORMANCE_ART
+George Beiswanger,GUEST_FACULTY,PERFORMANCE_ART
+Jeanne Andrea Belcher,STUDENT,PERFORMANCE_ART
 Charles Bell,GUEST_FACULTY,ENGLISH_AND_WRITING
 Avis Rebecca Belt,STUDENT,GENERAL
 Renate Benfey,STUDENT,LANGUAGES
@@ -671,7 +671,7 @@ Margot Eisenhardt Bergmann,GUEST_FACULTY,PHYSICAL_SCIENCES
 Peter Gabriel Bergmann,GUEST_FACULTY,PHYSICAL_SCIENCES
 Bernice Bernstein,STUDENT,GENERAL
 Nancy Ann Bernstein,UNKNOWN,UNKNOWN
-William Charles Berry,STUDENT,DRAMA
+William Charles Berry,STUDENT,PERFORMANCE_ART
 Joseph William Bex,STUDENT,GENERAL
 Leonard Winter Billing,STUDENT,ARCHITECTURE
 Laurence Richard Birns,STUDENT,GENERAL
@@ -713,7 +713,7 @@ Nancy Louise Brager,STUDENT,GENERAL
 Robert Braidwood,GUEST_FACULTY,SOCIAL_SCIENCES
 Thomas Hobgood Brame,UNKNOWN,UNKNOWN
 Jagna Braunthal,STUDENT,GENERAL
-Addison Sargent Bray,STUDENT,DRAMA
+Addison Sargent Bray,STUDENT,PERFORMANCE_ART
 Aydelyn Breeskin,STUDENT,GENERAL
 Dorothy Breeskin,STUDENT,GENERAL
 Gloria Breeskin,STUDENT,GENERAL
@@ -727,7 +727,7 @@ Carol Brice,GUEST_FACULTY,MUSIC
 Syril Bright,UNKNOWN,UNKNOWN
 Robert Brink,GUEST_FACULTY,MUSIC
 Zoe Broadwin,UNKNOWN,UNKNOWN
-Ether Brodsky,STUDENT,DRAMA
+Ether Brodsky,STUDENT,PERFORMANCE_ART
 Albert Patrick Brody,STUDENT,GENERAL
 Warner F. Brook,GUEST_FACULTY,SOCIAL_SCIENCES
 Mary Brooks,STUDENT,MUSIC
@@ -752,7 +752,7 @@ Katherine Talbott Burnside,STUDENT,GENERAL
 Margaret Burr,UNKNOWN,UNKNOWN
 Sue Kay Burton,STUDENT,GENERAL
 Will Burton,GUEST_FACULTY,ART_AND_CRAFT
-Richard Lynn Bush-Brown,STUDENT,DRAMA
+Richard Lynn Bush-Brown,STUDENT,PERFORMANCE_ART
 Herbert Arthur Cable,STUDENT,GENERAL
 "George William Cadmus, Jr.",UNKNOWN,UNKNOWN
 James Lewis Caldwell,UNKNOWN,UNKNOWN
@@ -770,20 +770,20 @@ Cynthia Carr,STUDENT,ENGLISH_AND_WRITING
 Dorothy Tyron Carr,STUDENT,MUSIC
 Sheila Carr,UNKNOWN,UNKNOWN
 Sydney Hobart Carter,STUDENT,GENERAL
-Aurora Cassotta,STUDENT,DRAMA
+Aurora Cassotta,STUDENT,PERFORMANCE_ART
 Louis J. Caviani,UNKNOWN,UNKNOWN
-Nick Cernovich,STUDENT,DRAMA
+Nick Cernovich,STUDENT,PERFORMANCE_ART
 John Angus Chamberlain,STUDENT,ART_AND_CRAFT
 Marcia Russell Chamberlain,UNKNOWN,UNKNOWN
 Frances Chandler,UNKNOWN,UNKNOWN
 Margaret Patterson Chandler,STUDENT,GENERAL
 Mona Chanin,UNKNOWN,UNKNOWN
 Anne Howard Chapin,STUDENT,ART_AND_CRAFT
-Remy Charlip,STUDENT,DRAMA
+Remy Charlip,STUDENT,PERFORMANCE_ART
 Jean Charlot,GUEST_FACULTY,ART_AND_CRAFT
 Koon Hing Cheang,GUEST,FARM_AND_WORK_PROGRAM
 Kirill Chenkin,FACULTY,LANGUAGES
-Judith Sybil Chernoff,STUDENT,DRAMA
+Judith Sybil Chernoff,STUDENT,PERFORMANCE_ART
 Ralph Charles Chernoff,STUDENT,GENERAL
 "Kenneth Chorley, Jr.",UNKNOWN,UNKNOWN
 Willa Skipwith Christoph,STUDENT,GENERAL
@@ -820,7 +820,7 @@ Ernest Costa,STUDENT,GENERAL
 Joan Couch,STUDENT,ART_AND_CRAFT
 Mignon Couser,GUEST_FACULTY,ENGLISH_AND_WRITING
 Eleanore Mayfield Cover,UNKNOWN,UNKNOWN
-Curtiss Wishon Cowan,STUDENT,DRAMA
+Curtiss Wishon Cowan,STUDENT,PERFORMANCE_ART
 Kendall Boice Cox,STUDENT,ART_AND_CRAFT
 Suzanne Catherine Cragin,STUDENT,GENERAL
 Isaac Doughten Cramer ,STUDENT,UNKNOWN
@@ -829,7 +829,7 @@ Elizabeth Crawford,UNKNOWN,UNKNOWN
 Robert Creeley,FACULTY,ENGLISH_AND_WRITING
 Lorraine Creesy,STUDENT,GENERAL
 Mary Irene Cullis,STUDENT,GENERAL
-Merce Cunningham,GUEST_FACULTY,DRAMA
+Merce Cunningham,GUEST_FACULTY,PERFORMANCE_ART
 Gwendolyn Currier,STUDENT,MUSIC
 Charles Birney Curry,UNKNOWN,UNKNOWN
 Thomas Scott-Swaggerty Cutshaw,STUDENT,MUSIC
@@ -839,7 +839,7 @@ Donald Francis Daley,STUDENT,MUSIC
 Edward Dahlberg,GUEST,ENGLISH_AND_WRITING
 Annette Whitney Dall,STUDENT,GENERAL
 "Thomas Sparrow Dalton, Jr.",STUDENT,GENERAL
-Marvin Daniels,STUDENT,DRAMA
+Marvin Daniels,STUDENT,PERFORMANCE_ART
 Alice Norene Dann,STUDENT,ENGLISH_AND_WRITING
 Philip Hyde Darling,STUDENT,ART_AND_CRAFT
 Janet Darnell,UNKNOWN,UNKNOWN
@@ -853,10 +853,10 @@ Guy Fielding Lewis Dawson,STUDENT,GENERAL
 Jose de Creeft,GUEST_FACULTY,ART_AND_CRAFT
 Elaine de Coonning,GUEST_FACULTY,ART_AND_CRAFT
 Willem de Kooning,GUEST_FACULTY,ART_AND_CRAFT
-Agnes de Mille,GUEST_FACULTY,DRAMA
+Agnes de Mille,GUEST_FACULTY,PERFORMANCE_ART
 Robert Henry De Niro,STUDENT,ART_AND_CRAFT
 Howard Dearstyne,GUEST_FACULTY,ARCHITECTURE
-John Virgil Deaver,STUDENT,DRAMA
+John Virgil Deaver,STUDENT,PERFORMANCE_ART
 Albert Donald DeBois,UNKNOWN,UNKNOWN
 Max Wilhelm Dehn,FACULTY,MATHEMATICS
 Toni Dehn,FAMILY,NA
@@ -903,7 +903,7 @@ Edward DuPuy,GUEST_FACULTY,ART_AND_CRAFT
 Kendall Lathrop Durant,STUDENT,GENERAL
 Marjorie Dutton,UNKNOWN,UNKNOWN
 Hampton Oman Duxbury,STUDENT,GENERAL
-Duncan Dunbar Dwight,STUDENT,DRAMA
+Duncan Dunbar Dwight,STUDENT,PERFORMANCE_ART
 "Ellsworth Everett Dwight, Jr.",STUDENT,GENERAL
 Margaret Dwight,STUDENT,GENERAL
 Rachel Dwinell,STAFF,NA
@@ -921,7 +921,7 @@ Alfred Einstein,GUEST_FACULTY,MUSIC
 Frank Alan Eisendrath,UNKNOWN,UNKNOWN
 Agathe Maria Elink-Schuurman,STUDENT,GENERAL
 Eleftherakis Eleftherios,GUEST_FACULTY,MUSIC
-Alexander Eliot,STUDENT,DRAMA
+Alexander Eliot,STUDENT,PERFORMANCE_ART
 Sidney Elkin,GUEST,FARM_AND_WORK_PROGRAM
 Harvey Brewster Elledge,STUDENT,GENERAL
 Margaret Emery,STAFF,NA
@@ -959,7 +959,7 @@ Gabrielle Bermann Fischer,STUDENT,GENERAL
 Liselotte K. Fischer,UNKNOWN,UNKNOWN
 Laura Belle Fisher,STUDENT,GENERAL
 Mary Falconer Fitton,STUDENT,ENGLISH_AND_WRITING
-Jerome Sidney Flax,STUDENT,DRAMA
+Jerome Sidney Flax,STUDENT,PERFORMANCE_ART
 Claire B. Florsheim,STUDENT,ART_AND_CRAFT
 Florence Judith Fogelson,STUDENT,MUSIC
 Charles Lewis Forberg,STUDENT,ARCHITECTURE
@@ -970,7 +970,7 @@ Lillian Louise Forst,UNKNOWN,UNKNOWN
 Anne Dunn Foster,STUDENT,GENERAL
 Francis Foster,STUDENT,ART_AND_CRAFT
 Arthur Foster,UNKNOWN,UNKNOWN
-Lawrence Fox,STUDENT,DRAMA
+Lawrence Fox,STUDENT,PERFORMANCE_ART
 Roberta Fox,UNKNOWN,UNKNOWN
 Arlene Floy Franklin,UNKNOWN,UNKNOWN
 Phyllis Iris Franklin,UNKNOWN,UNKNOWN
@@ -1011,7 +1011,7 @@ Clara Gerschkow,STUDENT,GENERAL
 Mrs. Walter Gethman,GUEST_FACULTY,ENGLISH_AND_WRITING
 Ruby Nina Gevertz,STUDENT,MUSIC
 Henry Gibson,UNKNOWN,UNKNOWN
-John James Gifford,STUDENT,DRAMA
+John James Gifford,STUDENT,PERFORMANCE_ART
 Katherine Gilbert,GUEST,ART_AND_CRAFT
 Denver Laredo Gillen,STUDENT,GENERAL
 Merrill Edmund Gillespie,STUDENT,GENERAL
@@ -1087,7 +1087,7 @@ Alberta Halstead,STUDENT,GENERAL
 Shoji Hamada,GUEST_FACULTY,ART_AND_CRAFT
 K. Ann Hamann,UNKNOWN,UNKNOWN
 Sara Margaret Hamill,STUDENT,GENERAL
-Suzette Morton Hamill,GUEST,DRAMA
+Suzette Morton Hamill,GUEST,PERFORMANCE_ART
 Alan Graham Hamilton,UNKNOWN,UNKNOWN
 John William Hamilton,UNKNOWN,UNKNOWN
 Wilfrid Gardiner Hamlin,STUDENT,ENGLISH_AND_WRITING
@@ -1104,14 +1104,14 @@ John Arthur Harrigan,UNKNOWN,UNKNOWN
 Mary Rice Harrigan,UNKNOWN,UNKNOWN
 Wilbur Gordon Harrington,STUDENT,GENERAL
 Hazel Brister Harris,UNKNOWN,UNKNOWN
-Dora Harrison,STUDENT,DRAMA
+Dora Harrison,STUDENT,PERFORMANCE_ART
 Lou Harrison,FACULTY,MUSIC
 Faith Odelle Hartwig,STUDENT,GENERAL
 Robert David Hartzler,STUDENT,GENERAL
 Lynn Hatcher,STUDENT,GENERAL
 Harold L. Hatt,STUDENT,ART_AND_CRAFT
 Dan Haugaard,UNKNOWN,UNKNOWN
-Erik Christian Haugaard,STUDENT,DRAMA
+Erik Christian Haugaard,STUDENT,PERFORMANCE_ART
 Eleanor Hawk,STUDENT,ART_AND_CRAFT
 Robert Hawley,STUDENT,ENGLISH_AND_WRITING
 Roland Hayes,GUEST_FACULTY,MUSIC
@@ -1128,11 +1128,11 @@ Janet Chloe Heling,STUDENT,ART_AND_CRAFT
 Barbara Heller,STUDENT,GENERAL
 Joan Elizabeth Heller,STUDENT,GENERAL
 Robert Hellman,GUEST_FACULTY,LANGUAGES
-George Windsor Hendrickson,STUDENT,DRAMA
-James Leo Herlihy,STUDENT,DRAMA
+George Windsor Hendrickson,STUDENT,PERFORMANCE_ART
+James Leo Herlihy,STUDENT,PERFORMANCE_ART
 Jacqueline Hermann,STUDENT,ART_AND_CRAFT
 Ruth Margaret Herschberger,STUDENT,ENGLISH_AND_WRITING
-Everit Albert Herter,STUDENT,DRAMA
+Everit Albert Herter,STUDENT,PERFORMANCE_ART
 Gisela Kronenberg Herwitz,STUDENT,SOCIAL_SCIENCES
 Ray Hess,UNKNOWN,UNKNOWN
 Jordan S. Hess,UNKNOWN,UNKNOWN
@@ -1171,12 +1171,12 @@ Mary Elizabeth Hughes,STUDENT,GENERAL
 Eunice Engle Hull,UNKNOWN,UNKNOWN
 Julia Margaret Hull,UNKNOWN,UNKNOWN
 Martha Elaine Hult,STUDENT,GENERAL
-"Humphrey, Doris",GUEST_FACULTY,DRAMA
+"Humphrey, Doris",GUEST_FACULTY,PERFORMANCE_ART
 Martha Jane Elliot Hunt,STUDENT,GENERAL
 Priscilla Huntington,GUEST,SEMINAR_ON_AMERICA
 "Frank Herbert Hursch, Jr.",UNKNOWN,UNKNOWN
 Beatrice Huss,FAMILY,NA
-Wesley Huss,FACULTY,DRAMA
+Wesley Huss,FACULTY,PERFORMANCE_ART
 Ruth Hibbs Hyland,UNKNOWN,UNKNOWN
 Robert Imlay,UNKNOWN,UNKNOWN
 Sydney Irwin,UNKNOWN,UNKNOWN
@@ -1189,7 +1189,7 @@ Ronald Burton Jackson,STUDENT,GENERAL
 Tommy Jackson,STUDENT,GENERAL
 Leslie Jacobs,UNKNOWN,UNKNOWN
 Henry Hastings Jaeger,STUDENT,ART_AND_CRAFT
-Elizabeth Jalowetz,STUDENT,DRAMA
+Elizabeth Jalowetz,STUDENT,PERFORMANCE_ART
 Heinrich Jalowetz,FACULTY,MUSIC
 Johanna Jalowetz,FACULTY,MUSIC
 Ann Louise Jamieson,STUDENT,GENERAL
@@ -1199,7 +1199,7 @@ Ione Bertha Janssen,UNKNOWN,UNKNOWN
 Dorothy Maud Jeffery,STUDENT,GENERAL
 Edward North Jenks,STUDENT,GENERAL
 Robert Darrah Jenks,UNKNOWN,UNKNOWN
-Elizabeth Schmitt Jennerjahn,FACULTY,DRAMA
+Elizabeth Schmitt Jennerjahn,FACULTY,PERFORMANCE_ART
 Warren Paul Jennerjahn,FACULTY,ART_AND_CRAFT
 Peter Joseph Jepsen,UNKNOWN,UNKNOWN
 Anna Christina Jessen,STUDENT,GENERAL
@@ -1228,10 +1228,288 @@ Victor Kalos,STUDENT,GENERAL
 Maria Kant-Glaser,UNKNOWN,UNKNOWN
 Harry Kantor,UNKNOWN,UNKNOWN
 Vivian Kantor,UNKNOWN,UNKNOWN
-Marjorie R. Karlin,STUDENT,DRAMA
+Marjorie R. Karlin,STUDENT,PERFORMANCE_ART
 Karen Karnes,GUEST_FACULTY,ART_AND_CRAFT
 Bernard Dornin Karp,STUDENT,GENERAL
 John Joseph Kasik,STUDENT,GENERAL
 Leslie George Katz,STUDENT,GENERAL
 Hugo Kauder,GUEST_FACULTY,MUSIC
 "Edgar, Jr. Kaufmann",GUEST_FACULTY,MUSIC
+Marian Carol Kaufmann,UNKNOWN,UNKNOWN
+Florence Kathryn Kawa,STUDENT,GENERAL
+Edwin Henry Kaye,STUDENT,GENERAL
+Alfred Kazin,GUEST_FACULTY,ENGLISH_AND_WRITING
+Kenneth Howard Keefer,UNKNOWN,UNKNOWN
+Joan Elizabeth Keiser,STUDENT,GENERAL
+John A.H. Keith,FACULTY,LANGUAGES
+Gail FelixKeith-Jones,STUDENT,GENERAL
+Elizabeth Kellogg,GUEST_FACULTY,ENGLISH_AND_WRITING
+Elizabeth Ferris Kelley,STUDENT,PERFORMANCE_ART
+Alex Kemeny,STUDENT,ENGLISH_AND_WRITING
+Margaret F. Kennard,STUDENT,GENERAL
+Ernest Everett Kennedy,STUDENT,GENERAL
+Evelyn Bullock Kennedy,STUDENT,GENERAL
+Carl Peter Kent,UNKNOWN,UNKNOWN
+Charles Staniford Kessler,STUDENT,GENERAL
+Basil H. King,STUDENT,ART_AND_CRAFT
+"James Gore King, Jr.",FACULTY,HISTORY
+Jane King,GUEST_FACULTY,FARM_AND_WORK_PROGRAM
+Joseph Jerone King,GUEST_FACULTY,SOCIAL_SCIENCES
+Galway Mills Kinnell,STUDENT,GENERAL
+Sarah Kitchen,UNKNOWN,UNKNOWN
+Virginia Smith Kitzmiller,STUDENT,GENERAL
+Jacob Klein,GUEST_FACULTY,SOCIAL_SCIENCES
+Robert Klein,GUEST_FACULTY,PERFORMANCE_ART
+Karin Renate Klepper,STUDENT,GENERAL
+Franz Kline,GUEST_FACULTY,ART_AND_CRAFT
+Joanna Kline,UNKNOWN,UNKNOWN
+Stava Klipper,UNKNOWN,UNKNOWN
+Lieler Hedwig Knepper,UNKNOWN,UNKNOWN
+Irving Knickerbocker,FACULTY,SOCIAL_SCIENCES
+Jane Knowles,STUDENT,GENERAL
+Alice Jane Knox,STUDENT,GENERAL
+Alfred Lawrence Kocher,FACULTY,ART_AND_CRAFT
+Margaret Kocher,FAMILY,NA
+Rudolf Kolisch,GUEST_FACULTY,MUSIC
+Arthur Joseph Komar,GUEST_FACULTY,MUSIC
+Edgar Theodore Konsberg,STUDENT,GENERAL
+Ada Gladys Kopetz,STUDENT,GENERAL
+Anatole Kopp,GUEST_FACULTY,ARCHITECTURE
+Marianne Bjerke Kopp,GUEST_FACULTY,MATHEMATICS
+Lucille Krasne,UNKNOWN,UNKNOWN
+Irwin Kremen,STUDENT,ENGLISH_AND_WRITING
+Mary Byrd Kremer,UNKNOWN,UNKNOWN
+"Krenek, Ernst",GUEST_FACULTY,MUSIC
+Mary Kriger,STUDENT,GENERAL
+Leo Krikorian,STUDENT,ART_AND_CRAFT
+Gisella Jeanette Kronenberg,STUDENT,SOCIAL_SCIENCES
+Felix Thomas Krowinski,STUDENT,GENERAL
+Ruthabeth Krueger,STUDENT,MUSIC
+Helen E. Kruger,UNKNOWN,UNKNOWN
+Robert Hoch Kubie,UNKNOWN,UNKNOWN
+Margot Kugelman,UNKNOWN,UNKNOWN
+Erma Kulan,STAFF,NA
+Elisabeth Anne Kulka,STUDENT,PERFORMANCE_ART
+Frances Elizabeth Kuntz,STUDENT,PERFORMANCE_ART
+Annarrah Kurtz,GUEST_FACULTY,ENGLISH_AND_WRITING
+Kenneth Kurtz,FACULTY,ENGLISH_AND_WRITING
+"Rudolph Paul Kutsche, Jr.",STUDENT,GENERAL
+Michael Kuttner,GUEST_FACULTY,MUSIC
+Timothy P. Lafarge,STUDENT,GENERAL
+Beatrice Pitney Lamb,GUEST_FACULTY,SOCIAL_SCIENCES
+Jerry Landis,STUDENT,GENERAL
+Anita Landreau,FAMILY,NA
+Anthony Landreau,FACULTY,ART_AND_CRAFT
+Marvin Louis Lane,UNKNOWN,UNKNOWN
+"Charles LaNoue Langley, Jr.",STUDENT,GENERAL
+William Albert Lanier,STUDENT,ARCHITECTURE
+Monika Lanyi-Mann,STUDENT,GENERAL
+Gloria Lolita Larsen,STUDENT,GENERAL
+Lois Wilson Lautner,STUDENT,GENERAL
+Gwendolyn Knight Lawrence,GUEST_FACULTY,ART_AND_CRAFT
+Jacob Lawrence,GUEST_FACULTY,ART_AND_CRAFT
+Bernard Leach,GUEST_FACULTY,ART_AND_CRAFT
+Barbara Odette Leeb,UNKNOWN,UNKNOWN
+Millicent Leeds,STUDENT,GENERAL
+Ingeborg Leese,UNKNOWN,UNKNOWN
+Paula Lenchner,STUDENT,GENERAL
+Anna Lenhart,GUEST,FARM_AND_WORK_PROGRAM
+Peter B. Lenhart,GUEST,GENERAL
+Mary J. Leo,STUDENT,MUSIC
+Robert Stanley Leon,STUDENT,GENERAL
+Fernando Leon,STUDENT,LANGUAGES
+Winifred Leon,STAFF,NA
+Henry Leonard,GUEST,SEMINAR_ON_AMERICA
+Lotte Leonard,GUEST_FACULTY,MUSIC
+Thomas Lincoln Leonard,GUEST,ART_AND_CRAFT
+Paul Leser,FACULTY,SOCIAL_SCIENCES
+James Findlay Leven,UNKNOWN,UNKNOWN
+Albert William Levi,FACULTY,SOCIAL_SCIENCES
+Conalee Levine,STUDENT,GENERAL
+Josephine Naomi Levine,STUDENT,ART_AND_CRAFT
+Wilhelm Levinger,GUEST,SEMINAR_ON_AMERICA
+Ruth Levinson,UNKNOWN,UNKNOWN
+Andre Lazare Levy,UNKNOWN,UNKNOWN
+Jerrold Edgar Levy,STUDENT,GENERAL
+Otis Levy,STUDENT,PERFORMANCE_ART
+Dorothy S. Lewis,UNKNOWN,UNKNOWN
+Glenn C. Lewis,UNKNOWN,UNKNOWN
+Glenn Edwin Lewis,UNKNOWN,UNKNOWN
+John Guy Lewis,UNKNOWN,UNKNOWN
+Ursula Lewis,STUDENT,GENERAL
+Suefong Li,STUDENT,ART_AND_CRAFT
+Edith Louise Lichtenberg,STUDENT,MUSIC
+Harvey Lichtenstein,STUDENT,PERFORMANCE_ART
+Norma Lieberman,STUDENT,GENERAL
+Klaus Liepmann,GUEST_FACULTY,MUSIC
+Julia Rosalie Light,UNKNOWN,UNKNOWN
+Marion Ramona Lindblade,UNKNOWN,UNKNOWN
+Alan Crawford Lindsay,UNKNOWN,UNKNOWN
+Jeffrey Lindsay,STUDENT,ARCHITECTURE
+Charles Halsey Lindsley,FACULTY,PHYSICAL_SCIENCES
+Frances Lindsley,GUEST_FACULTY,MUSIC
+Leo Lionni,GUEST_FACULTY,ART_AND_CRAFT
+Lore Lindenfeld,STUDENT,ART_AND_CRAFT
+Louise Lippold,UNKNOWN,PERFORMANCE_ART
+Richard Lippold,GUEST_FACULTY,ART_AND_CRAFT
+Lillian Lipsett,STUDENT,ART_AND_CRAFT
+Andrew Winston Lipsey,STAFF,NA
+Rubye Marion Johnston Lipsey,STAFF,NA
+Richard Lischer,GUEST_FACULTY,ART_AND_CRAFT
+Katherine Litz,GUEST_FACULTY,PERFORMANCE_ART
+Helen Livingston,GUEST_FACULTY,PERFORMANCE_ART
+Francesca Livermore,STUDENT,GENERAL
+Richard Harrison Lockwood,STUDENT,MUSIC
+Sarah Wisner Loomis,STUDENT,GENERAL
+Jean Madeline Loop,STUDENT,GENERAL
+Irene Lott,STUDENT,GENERAL
+Ralph Reed Lounsbury,FACULTY,SOCIAL_SCIENCES
+Helen Lounsbury,STAFF,NA
+Roger Vernon Lovelace,STUDENT,GENERAL
+Ruth Jane Lovett,UNKNOWN,UNKNOWN
+Edward Elias Lowinsky,FACULTY,MUSIC
+Gretel Lowinsky,FACULTY,MUSIC
+Sheila Lubin,UNKNOWN,UNKNOWN
+Irwin Arnold Lubroth,STUDENT,GENERAL
+Harold Springer Lund,GUEST,FARM_AND_WORK_PROGRAM
+James Marshall Luntz,STUDENT,GENERAL
+Robert A. Luntz,STUDENT,GENERAL
+Alvin Lustig,GUEST_FACULTY,ART_AND_CRAFT
+Harriette Lyford,STUDENT,GENERAL
+Mary Ruth Lyford,STUDENT,GENERAL
+Patricia Gay Lynch,STUDENT,MUSIC
+"Lytle, Gertrude",STAFF,NA
+"Lytle, Jessie",STAFF,NA
+"Lytle, Nathaniel",STAFF,NA
+Leslie Harry MacEwen,UNKNOWN,UNKNOWN
+Trueman Sulzer MacHenry,GUEST_FACULTY,MATHEMATICS
+Raymond F. Maciejczyk,STUDENT,SOCIAL_SCIENCES
+Warren MacKenzie,GUEST_FACULTY,ART_AND_CRAFT
+Ann MacKinnon,STUDENT,GENERAL
+Elvine Richard Magruder,STUDENT,GENERAL
+Patricia Elaine Maguire,UNKNOWN,UNKNOWN
+Kras Maino,GUEST_FACULTY,MUSIC
+Bernard Joseph Malek,STUDENT,PERFORMANCE_ART
+Robert Samuel Malkin,STUDENT,ART_AND_CRAFT
+James Leonard Malloy,UNKNOWN,UNKNOWN
+Etta Diane Mandelbaum,STUDENT,GENERAL
+Judith Vivian Mandelbaum,STUDENT,GENERAL
+Marlene Manes,UNKNOWN,UNKNOWN
+Nancy Carolyn Manes,UNKNOWN,UNKNOWN
+Anne Gilbert Mangold,STAFF,NA
+Frederick Rogers Mangold,FACULTY,LANGUAGES
+Isabel Hollister Mangold,STAFF,NA
+Joseph C. Manulik,UNKNOWN,UNKNOWN
+Louis Fuller Marbury,UNKNOWN,UNKNOWN
+Benjamin Marconitz,UNKNOWN,UNKNOWN
+Zola Carl Marcus,STUDENT,ART_AND_CRAFT
+Robert Humphrey Marden,STUDENT,PERFORMANCE_ART
+Maryrose Margaretten,STUDENT,GENERAL
+Jene Alif Markoff,STUDENT,GENERAL
+"Mendez Adolph Marks, Jr.",STUDENT,PERFORMANCE_ART
+"Marley, John",UNKNOWN,UNKNOWN
+Lucian Charles Marquis,STUDENT,GENERAL
+Laddie Marshack,STUDENT,GENERAL
+Bela John Martin,STUDENT,ART_AND_CRAFT
+Denise Nina Martin,STUDENT,MUSIC
+George Martin,UNKNOWN,UNKNOWN
+Joseph Walford Martin,FACULTY,ENGLISH_AND_WRITING
+Marcella Eliott Martin,STUDENT,GENERAL
+Sylvesta Martin,STUDENT,MUSIC
+Ysidore Martin,UNKNOWN,UNKNOWN
+"Martinson, Joan",STUDENT,GENERAL
+"Martz, Karl",STUDENT,ART_AND_CRAFT
+"Marx, Josef",FACULTY,MUSIC
+"Maser, Moreen",STUDENT,GENERAL
+"Masurovsky, Gregory",STUDENT,ART_AND_CRAFT
+Paul Mattern,GUEST_FACULTY,MUSIC
+Dorothy Mattison,GUEST_FACULTY,ENGLISH_AND_WRITING
+Gorman E. Mattison,FACULTY,SOCIAL_SCIENCES
+Laurel Rose Mattlin,STUDENT,GENERAL
+Jean Helen Maurice,STUDENT,GENERAL
+Sally Ballard Maurice,UNKNOWN,UNKNOWN
+Aristide Mavridis,GUEST,FARM_AND_WORK_PROGRAM
+Anne Mayer,STUDENT,GENERAL
+Franziska Mayer,FACULTY,ART_AND_CRAFT
+Jane Frances Mayhall,STUDENT,MUSIC
+Dorothy Elizabeth Mayhew,STUDENT,ART_AND_CRAFT
+Robert Linne McAllester,UNKNOWN,UNKNOWN
+Marie G. McCall,STUDENT,GENERAL
+John H. McCandless,FACULTY,ART_AND_CRAFT
+Alice Maria McCanna,STUDENT,ART_AND_CRAFT
+William McCleery,GUEST,ENGLISH_AND_WRITING
+James Joseph McClure,STUDENT,GENERAL
+Hugh Norman McFadden,STUDENT,GENERAL
+William Douglas McGee,STUDENT,ART_AND_CRAFT
+Joanne Rae McGee,UNKNOWN,UNKNOWN
+John Gary McGraw,STUDENT,PERFORMANCE_ART
+Robert Graham McGuire,STUDENT,GENERAL
+William Robert McKee,UNKNOWN,UNKNOWN
+Arlyn Cecilia McKenna,STUDENT,GENERAL
+Virginia Alexa McLane,STUDENT,GENERAL
+"McLaughlin, William Richard",GUEST_FACULTY,FARM_AND_WORK_PROGRAM
+Martha Ella McMillan,STUDENT,GENERAL
+Sue Alice McNeil,STUDENT,GENERAL
+William McNeil,UNKNOWN,UNKNOWN
+Archie Mabrey McWilliams,STUDENT,GENERAL
+Bess Miller,FAMILY,NA
+Shirley Ruth Medcalf,STUDENT,MUSIC
+Virginia Isabelle Meek,UNKNOWN,UNKNOWN
+Jo Anne Melscher,UNKNOWN,UNKNOWN
+Amy G. Mendelson,UNKNOWN,UNKNOWN
+Marilyn Marie Menger,UNKNOWN,UNKNOWN
+Elliot Merrick,GUEST_FACULTY,ENGLISH_AND_WRITING
+Robert Joseph Metzger,UNKNOWN,UNKNOWN
+Maricelle Meyer,UNKNOWN,UNKNOWN
+Margaret Elizabeth Midelfort,UNKNOWN,UNKNOWN
+Adele Mildred Milhendler,UNKNOWN,UNKNOWN
+Doris Harris Miller,STUDENT,MUSIC
+Herbert Adolphus Miller,FACULTY,SOCIAL_SCIENCES
+Mary Ellan Miller,STUDENT,GENERAL
+Mary Jane Miller,UNKNOWN,UNKNOWN
+Nancy Hamblett Miller,STUDENT,GENERAL
+Quentin Kyles Miller,STUDENT,MUSIC
+Ruth Caroline Miller,UNKNOWN,UNKNOWN
+William Blackall Miller,UNKNOWN,UNKNOWN
+Louise Minster,STUDENT,PERFORMANCE_ART
+Arthur Herman Minters,STUDENT,ART_AND_CRAFT
+Abraham Mishkind,GUEST_FACULTY,MUSIC
+Marion Mitchell,STUDENT,GENERAL
+Mary Lou Mitchell,STUDENT,GENERAL
+Donald Mixon,UNKNOWN,UNKNOWN
+Teri Dick Modlin,STUDENT,GENERAL
+Anna Moellenhoff,FACULTY,PHYSICAL_SCIENCES
+Fritz Moellenhoff,FACULTY,SOCIAL_SCIENCES
+Marjorie Borden Moench,STUDENT,ART_AND_CRAFT
+Clifford Moles,FACULTY,FARM_AND_WORK_PROGRAM
+Shirley Moles,FAMILY,NA
+Claude Philippe Monteux,STUDENT,MUSIC
+Frances Moore,UNKNOWN,UNKNOWN
+Susan Moore,STUDENT,ART_AND_CRAFT
+Emma Gladys Mora,STUDENT,GENERAL
+Margit J. Morand,UNKNOWN,UNKNOWN
+Barbara Morgan,GUEST_FACULTY,ART_AND_CRAFT
+Charles Taylor Morey,UNKNOWN,UNKNOWN
+Jesse Elbert Morgan,STUDENT,GENERAL
+Hilda Morley,GUEST_FACULTY,LANGUAGES
+Grace Eloise Morrell,STUDENT,GENERAL
+Alexander Beauregard Morse,STUDENT,ART_AND_CRAFT
+Deborah Charlotte Moscowitz,UNKNOWN,UNKNOWN
+Elizabeth Alice Moshier,UNKNOWN,UNKNOWN
+Martin Stephen Moskof,UNKNOWN,UNKNOWN
+Elizabeth Mosley,STAFF,NA
+Esther Myra Moss,UNKNOWN,UNKNOWN
+Roy Young Moss,UNKNOWN,UNKNOWN
+Robert Motherwell,FACULTY,ART_AND_CRAFT
+Marie Marton Mulholland,STUDENT,GENERAL
+Roderick Louis Mulholland,STUDENT,GENERAL
+Marie Murelius,STUDENT,GENERAL
+Dan Tiernan Murphy,STUDENT,GENERAL
+Dave James Murphy,STUDENT,GENERAL
+Lelia Mae Murphy,UNKNOWN,UNKNOWN
+Robert Burbank Murphy,STUDENT,GENERAL
+Faith Cornish Murray,STUDENT,ART_AND_CRAFT
+Jane Murray,GUEST,FARM_AND_WORK_PROGRAM
+Helen Musselman,UNKNOWN,UNKNOWN
+A. Nicholas Muzenic,STUDENT,ART_AND_CRAFT
+Beatrice Muriel Myers,STUDENT,SOCIAL_SCIENCES
