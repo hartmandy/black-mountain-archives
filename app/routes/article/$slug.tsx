@@ -3,7 +3,7 @@ import { json, LoaderFunction } from "@remix-run/node";
 import { useLoaderData } from "@remix-run/react";
 import { db } from "../../utils/db.server";
 import { ClientOnly } from "remix-utils";
-import Editor from "../../components/Editor/index.client";
+import Editor from "../../components/editor/index.client";
 type Props = {};
 
 export const loader: LoaderFunction = async ({ params }) => {
