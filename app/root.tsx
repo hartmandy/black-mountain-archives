@@ -8,6 +8,9 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import styles from "./styles/app.css";
+import Canvas from "./components/canvas";
+import AppLayout from "./components/app.layout";
+import Navigation from "./components/navigation";
 
 export function links() {
   return [{ rel: "stylesheet", href: styles }];
@@ -26,8 +29,13 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body>
-        <Outlet />
+      <body className="bg-slate-50 text-zinc-900">
+        <AppLayout>
+          <Navigation />
+          <Canvas>
+            <Outlet />
+          </Canvas>
+        </AppLayout>
         <ScrollRestoration />
         <Scripts />
         <LiveReload />

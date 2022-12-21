@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .sidebar-icon {
+    @apply relative items-center justify-center h-16 w-16 mx-0 md:mx-auto my-auto md:my-0 md:border-b-2 md:border-slate-200 md:first:border-t-2 hover:bg-slate-100 hidden md:flex;
+  }
+  .sidebar-selected {
+    @apply bg-slate-100 md:border-l-[5px] border-l-black h-full top-0 left-0 absolute hidden md:block;
+  }
+}
+
 .codex-editor h3 {
   color: blue;
 }

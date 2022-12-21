@@ -3,9 +3,9 @@
     "remix.env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "app/components/Editor/index.js",
-    "app/components/Editor/config.js",
-    "app/components/Editor/index.js"
+    "app/components/editor/index.js",
+    "app/components/editor/config.js",
+    "app/components/editor/index.js"
   ],
   "compilerOptions": {
     "lib": ["DOM", "DOM.Iterable", "ES2019"],

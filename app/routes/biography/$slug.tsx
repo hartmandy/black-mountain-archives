@@ -1,6 +1,6 @@
 import React from "react";
 import { ClientOnly } from "remix-utils";
-import Editor from "~/components/Editor/index.client";
+import Editor from "~/components/editor/index.client";
 import { useLoaderData } from "@remix-run/react";
 import { json, LoaderFunction } from "@remix-run/node";
 import { db } from "~/utils/db.server";
