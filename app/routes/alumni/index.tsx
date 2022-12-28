@@ -1,4 +1,5 @@
-import { json, LoaderFunction } from "@remix-run/node";
+import { json } from "@remix-run/node";
+import type { LoaderFunction } from "@remix-run/node";
 import { Link, useLoaderData, useSearchParams } from "@remix-run/react";
 import { db } from "~/utils/db.server";
 const PER_PAGE = 100;

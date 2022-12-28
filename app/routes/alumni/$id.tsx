@@ -1,5 +1,7 @@
-import { Person } from "@prisma/client";
-import { json, LoaderFunction } from "@remix-run/node";
+import { json } from "@remix-run/node";
+import type { Person } from "@prisma/client";
+import type { LoaderFunction } from "@remix-run/node";
+
 import { useLoaderData } from "@remix-run/react";
 import { db } from "~/utils/db.server";
 import { ROLE, SUBJECT } from "~/utils/person.utils";
